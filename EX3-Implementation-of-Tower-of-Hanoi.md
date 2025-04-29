@@ -13,8 +13,8 @@ To write a C program to implement Tower of Hanoi
 ## Program:
 ```
 Program to implement Tower of Hanoi
-Developed by: KANAGAVEL R
-RegisterNumber: 212223040085
+Developed by: RAVIVARMAN G S
+RegisterNumber: 212223100044
 
 #include<stdio.h>
 void TOH(int n,char x,char y,char z)
